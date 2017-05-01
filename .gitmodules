@@ -1,0 +1,3 @@
+[submodule "Assets/TriMapper"]
+	path = Assets/TriMapper
+	url = https://github.com/Statharas/TriMapper
